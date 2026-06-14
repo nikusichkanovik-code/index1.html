@@ -161,7 +161,7 @@ img {
 
             <div class="face back">
                 <img src="photo1.jpg">
-                <img src="photo.png.jpg">
+                <img src="photo.jpg">
             </div>
 
         </div>
